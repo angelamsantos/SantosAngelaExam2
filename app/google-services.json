@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "125042620041",
+    "firebase_url": "https://fir-4itf-89503.firebaseio.com",
+    "project_id": "fir-4itf-89503",
+    "storage_bucket": "fir-4itf-89503.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125042620041:android:1f09cb20cbe3b808",
+        "android_client_info": {
+          "package_name": "com.santos.angela.santosangelaexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125042620041-g8fa090livm5i9u66kjt8k9rq35qtvnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santos.angela.santosangelaexam2",
+            "certificate_hash": "65e8fe472991cd8647344a3dbd7849fcaac1de4c"
+          }
+        },
+        {
+          "client_id": "125042620041-h3ak2athla6d1des0op1mek3r32v2sop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlxhIMLoQgrSKI1gBnSgtHu8seWQaV42g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125042620041-h3ak2athla6d1des0op1mek3r32v2sop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
